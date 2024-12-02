@@ -1,21 +1,24 @@
-# Nome do Projeto
+# Gestor de Tarefas
 
 ## Objetivos do Projeto
 
-O objetivo deste projeto é [descreva brevemente o objetivo do seu projeto, como "criar uma aplicação web para gerenciar tarefas diárias" ou "desenvolver uma API para automação de processos"]. Este projeto busca resolver [descreva o problema que o projeto visa resolver, como "a falta de ferramentas eficazes para organizar tarefas de forma simples e intuitiva"].
+O objetivo deste projeto é desenvolver um **Gestor de Tarefas** simples, mas eficaz, para ajudar os usuários a organizarem suas atividades diárias. A aplicação permitirá que os usuários criem, editem e excluam tarefas, atribuam datas de vencimento e marquem tarefas como concluídas. A ideia é oferecer uma interface intuitiva, que seja fácil de usar e que ajude a aumentar a produtividade pessoal.
 
 ## Funcionalidades
 
-As principais funcionalidades que serão implementadas neste projeto incluem:
+As principais funcionalidades que serão implementadas incluem:
 
-1. **[Funcionalidade 1]**  
-   Descrição da primeira funcionalidade. Exemplo: "Cadastro e autenticação de usuários."
+1. **Cadastro e Autenticação de Usuários**  
+   Os usuários poderão se registrar e fazer login na plataforma para gerenciar suas tarefas de maneira personalizada.
 
-2. **[Funcionalidade 2]**  
-   Descrição da segunda funcionalidade. Exemplo: "Visualização de tarefas pendentes em um painel."
+2. **Gerenciamento de Tarefas**  
+   Os usuários poderão criar novas tarefas, editar descrições, adicionar datas de vencimento e marcar tarefas como concluídas.
 
-3. **[Funcionalidade 3]**  
-   Descrição da terceira funcionalidade. Exemplo: "Envio de notificações por e-mail para tarefas pendentes."
+3. **Filtros e Pesquisa**  
+   A aplicação permitirá que os usuários filtrem suas tarefas por status (pendentes ou concluídas) e busquem por palavras-chave.
 
-4. **[Funcionalidade 4]**  
-   Descrição de outras funcionalidades, se houver. Exemplo: "Exportação de relatórios em formato PDF."
+4. **Notificações por E-mail**  
+   O sistema enviará notificações por e-mail quando o prazo de uma tarefa estiver se aproximando ou quando uma tarefa for concluída.
+
+5. **Interface Responsiva**  
+   A interface será responsiva, permitindo o uso do aplicativo tanto em desktop quanto em dispositivos móveis.
